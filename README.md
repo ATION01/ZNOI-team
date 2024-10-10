@@ -1,4 +1,4 @@
-# [「ZNOI」出题组 ](https://github.com/ATION01/ZNOI-team))
+# [「ZNOI」出题组 ](https://github.com/ATION01/ZNOI-team)
 <head>
     <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
